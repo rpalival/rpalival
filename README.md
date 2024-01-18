@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raj Palival</h1>
 <h3 align="center">An Ex-HealthEdge Software Developer-1, currently pursuing a MS degree in Software Engineering at Stevens Institute of Technology (Hoboken, NJ). Expected Graduation date: May 2024.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rpalival&label=Profile%20views&color=0e75b6&style=flat" alt="rpalival" /> </p>
-
-
 - 🌱 I’m currently learning **MEAN Stack**
 
 - 👨‍💻 My Website [https://rpalival.github.io/portfolio/](https://rpalival.github.io/portfolio/)

@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Raj Palival</h1>
-<h3 align="center">An Ex-HealthEdge Software Developer-1, currently pursuing a MS degree in Software Engineering at Stevens Institute of Technology (Hoboken, NJ). Expected Graduation date: May 2024.</h3>
+<h3 align="center">An Ex-HealthEdge Software Developer-1, recent Graduate with MS in Software Engineering. Currently volunteering at Keelworks as backend developer on their KeelHub Application.</h3>
 
-- 🌱 I’m currently learning **MEAN Stack**
+- 🌱 I’m currently learning **Spring Boot 3 and Spring Security**
 
 - 👨‍💻 My Website [https://rpalival.github.io/portfolio/](https://rpalival.github.io/portfolio/)
 
-- 💬 Ask me about **react, python, Django**
+- 💬 Ask me about **Java, Javascript, Python**
 
 - 📫 How to reach me **rajpalival21@gmail.com**
 
-- ⚡ Fun fact **I have a vicious laugh!**
+- ⚡ Fun fact **I can most probably beat you in chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

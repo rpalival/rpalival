@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raj Palival</h1>
-<h3 align="center">An Ex-HealthEdge Software Developer-1, recent Graduate with MS in Software Engineering. Currently volunteering at Keelworks as backend developer on their KeelHub Application.</h3>
+<h3 align="center">An Ex-HealthEdge Software Developer-1, recent Graduate with MS in Software Engineering. Currently BackEnd Developer at Keelworks working on their KeelHub Web Application.</h3>
 
 - 🌱 I’m currently learning **Spring Boot 3 and Spring Security**
 

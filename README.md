@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rajpalival21@gmail.com**
 
-- ⚡ Fun fact **I can most probably beat you in chess**
+- ⚡ Fun fact **I can probably beat you in chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
